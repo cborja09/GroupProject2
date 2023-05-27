@@ -18,5 +18,5 @@ public class Task1 {
         String input = "Hello";
         String reversedString = reverseString(input);
         System.out.println(reversedString);
-    } //COMMENT
+    }
 }
