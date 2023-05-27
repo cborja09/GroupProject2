@@ -1,9 +1,7 @@
-import java.util.Arrays;
-
-public class Task3 {
+public class Task4 {
     /*
-    Count the Number of Words in a String: Write a function to count the number of words in a given string.
-    Words are separated by spaces or punctuation. For example, the input "Hello, world!" should return 2.
+    Check if Two Strings are Anagrams: Given two strings, determine if they are anagrams, meaning they contain the same
+    characters in a different order. For example, "listen" and "silent" are anagrams.
      */
 
     public static int countWords(String str) {
